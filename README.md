@@ -9,3 +9,8 @@ posenet implication nitya sinha (Needed to complete )...
 
 for the more details of the face structure can check out 
 
+<img src="https://miro.medium.com/max/1094/0*2MSy9WYvM-DwmGGG.jpg" >
+
+Left Eyes is 37 to 40 and 39 to 42.
+Right Eyes is 43 to 46 and 44 to 47.
+Mouth is 49 to 60 
